@@ -83,11 +83,11 @@ I particularly enjoy turning what I learn into reusable resources — from cheat
 ## 📊 GitHub
 
 <p align="center">
-  <img src="./profile/stats.svg" alt="Ali Rostami's GitHub stats" />
+  <img src="https://raw.githubusercontent.com/alirostami01/alirostami01/main/profile/stats.svg" alt="Ali Rostami's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="./profile/top-langs.svg" alt="Top languages" />
+  <img src="https://raw.githubusercontent.com/alirostami01/alirostami01/main/profile/top-langs.svg" alt="Top languages" />
 </p>
 
 ---
