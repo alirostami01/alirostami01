@@ -83,11 +83,11 @@ I particularly enjoy turning what I learn into reusable resources — from cheat
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alirostami01&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" alt="Ali Rostami's GitHub stats" />
+  <img src="./profile/stats.svg" alt="Ali Rostami's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirostami01&layout=compact&exclude_repo=blog,mehdy.github.io" alt="Top languages" />
+  <img src="./profile/top-langs.svg" alt="Top languages" />
 </p>
 
 ---
