@@ -25,8 +25,7 @@ My GitHub is a collection of projects I've built, maintained, documented, or use
 ### 🤖 AI & Technical Knowledge
 
 * **[aima-4e-persian](https://github.com/alirostami01/aima-4e-persian)** — Persian learning resources based on *Artificial Intelligence: A Modern Approach*, 4th Edition, by Stuart Russell and Peter Norvig.
-* **[linux-cheatsheet](https://github.com/alirostami01/linux-cheatsheet)** — Practical Linux command-line and system administration references.
-* **[cheatsheets](https://github.com/alirostami01/cheatsheets)** — Developer-oriented cheat sheets and quick references.
+
 
 ### 🐧 Linux, Nix & Personal Infrastructure
 
