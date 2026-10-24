@@ -22,10 +22,10 @@ My GitHub is a collection of projects I've built, maintained, documented, or use
 * **[Persian-Streams](https://github.com/alirostami01/Persian-Streams)** — A Stremio addon for discovering Persian streams for movies and TV series, with Node.js/Express and Cloudflare Workers runtimes.
 * **[Persian-Subtitles](https://github.com/alirostami01/Persian-Subtitles)** — A Stremio addon for Persian subtitles, integrating with the SubSource API and supporting both Node.js and Cloudflare Workers.
 
-### 🤖 AI & Technical Knowledge
+### 📚 Technical Books & Education
 
-* **[aima-4e-persian](https://github.com/alirostami01/aima-4e-persian)** — Persian learning resources based on *Artificial Intelligence: A Modern Approach*, 4th Edition, by Stuart Russell and Peter Norvig.
-
+* **[fundamentals-of-software-architecture-persian](https://github.com/alirostami01/fundamentals-of-software-architecture-persian)** — Persian translation and comprehensive study guide for *Fundamentals of Software Architecture: A Modern Engineering Approach* (2nd Edition) by Mark Richards and Neal Ford. Covers architectural characteristics, component-based thinking, architectural patterns (microservices, event-driven, modular monolith), and engineering trade-offs (available in Markdown, HTML, and PDF).
+* **[aima-4e-persian](https://github.com/alirostami01/aima-4e-persian)** — Persian learning resources and localization based on *Artificial Intelligence: A Modern Approach* (4th Edition) by Stuart Russell and Peter Norvig, covering modern AI foundations, search algorithms, knowledge representation, probabilistic models, and machine learning.
 
 ### 🐧 Linux, Nix & Personal Infrastructure
 
